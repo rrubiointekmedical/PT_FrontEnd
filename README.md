@@ -1,4 +1,4 @@
-# Frontend para CRUD con React y TypeScript
+# Prueba técnica Frontend CRUD con React y TypeScript
 
 Este es un proyecto frontend que utiliza Vite como el entorno de desarrollo, React como la biblioteca de interfaz de usuario y TypeScript para agregar tipado estático al código. Este proyecto se conecta a un backend existente para realizar operaciones CRUD (Leer, Crear y Eliminar) en los datos almacenados en el servidor (file).
 
